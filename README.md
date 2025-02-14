@@ -1,0 +1,1 @@
+this New skin detection (2) file content the codes and the all installation for the Acne-wrinkles-eyebags detection project you need to download it and upload it in jupiter notebook and change the file path
